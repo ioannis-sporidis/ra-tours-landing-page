@@ -1,6 +1,6 @@
 # Tours App
 
-https://ioannis-sporidis.github.io/tours/
+https://ioannis-sporidis.github.io/tours_app/
 
 ## Next Steps
 
