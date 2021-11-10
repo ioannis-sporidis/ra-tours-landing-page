@@ -1,9 +1,13 @@
-# Tours App
+# Tours Landing Page
 
-https://ioannis-sporidis.github.io/tours_app/
+Click [here](https://ioannis-sporidis.github.io/ra-hacker-news/) to check out the app
+
+## Dependencies
+
+- [React](https://reactjs.org/)
+- [NPM gh-pages](https://www.npmjs.com/package/gh-pages)
+
 
 ## Next Steps
-
-- Replace static API (maybe find a live one?).
-- Use Material UI.
-- Maybe add implementation to search and add tours?
+- Use Material-UI.
+- Maybe use a real API (if there is one).
