@@ -1,6 +1,6 @@
 # Tours Landing Page
 
-Click [here](https://ioannis-sporidis.github.io/ra-hacker-news/) to check out the app
+Click [here](https://ioannis-sporidis.github.io/ra-tours-landing-page/) to check out the app.
 
 ## Dependencies
 
