@@ -1,11 +1,11 @@
 # Tours Landing Page
 
-Click [here](https://ioannis-sporidis.github.io/ra-tours-landing-page/) to check out the app.
+Check out the app [here](https://ioannis-sporidis.github.io/ra-tours-landing-page/)
 
 ## Dependencies
 
 - [React](https://reactjs.org/)
-- [NPM gh-pages](https://www.npmjs.com/package/gh-pages)
+- [NPM Github Pages](https://www.npmjs.com/package/gh-pages)
 
 
 ## Next Steps
