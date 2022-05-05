@@ -1,6 +1,6 @@
 # Tours Landing Page
 
-Check out the app [here](https://ioannis-sporidis.github.io/ra-tours-landing-page/)
+Check out the app [here](https://the-fetaverse.github.io/ra-tours-landing-page/)
 
 ## Dependencies
 
